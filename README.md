@@ -35,7 +35,7 @@ iToken is a simple yet robust ERC20 token built on Ethereum. It adheres to the [
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/itoken.git
+git clone https://github.com/mahmudongit/itoken.git
 cd itoken
 
 # Install dependencies
